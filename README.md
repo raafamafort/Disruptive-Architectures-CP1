@@ -19,18 +19,29 @@ Avaliar conceitos sobre Modelagem de dados e aprendizado de máquina (ML)
 ## Como executar o projeto
    - Quais são os passos a serem realizados para executar o projeto?
       1 - Exploracao de Dados
+      
       2 - Analise Descritiva dos dados
+      
       3 - Desenvolvimento do Modelo
+      
       4 - Treinamento e teste do Modelo
+      
       5 - Modelo de produção
+      
 ## Pré-requisitos
    - Quais são as dependências do projeto?   
+   
       pandas
+      
       searborn
+      
       scikit-learn
+      
       matplotlib
+      
       numpy
 
 ## Video Explicativo
     
+    https://youtu.be/y42ZzHOVjHE
    
