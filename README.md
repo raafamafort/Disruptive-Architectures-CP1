@@ -18,6 +18,7 @@ Avaliar conceitos sobre Modelagem de dados e aprendizado de máquina (ML)
       
 ## Como executar o projeto
    - Quais são os passos a serem realizados para executar o projeto?
+      
       1 - Exploracao de Dados
       
       2 - Analise Descritiva dos dados
