@@ -1,6 +1,4 @@
-#Checkpoint 1
-
-Esse é um guia simples do README e deve ser customizado pelo estudante
+# Checkpoint 1
 
 **Nome: Rafael Mafort Coimbra** 
 
