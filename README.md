@@ -1,10 +1,10 @@
-# Template para desenvolvimento e entrega do Checkpoint 1
+#Checkpoint 1
 
 Esse é um guia simples do README e deve ser customizado pelo estudante
 
-**Nome: (Seu nome)** 
+**Nome: Rafael Mafort Coimbra** 
 
-**Turma: (Sua Turma)**
+**Turma: 2TDSPI**
 
 **Ano: 2023**
 
@@ -16,12 +16,23 @@ Avaliar conceitos sobre Modelagem de dados e aprendizado de máquina (ML)
 
 ## Desenvolvimento do projeto
    - Como foi desenvolvido o projeto?
-
+      Foi desenvolvido no jupyter com Python
+      
 ## Como executar o projeto
    - Quais são os passos a serem realizados para executar o projeto?
-   
+      1 - Exploracao de Dados
+      2 - Analise Descritiva dos dados
+      3 - Desenvolvimento do Modelo
+      4 - Treinamento e teste do Modelo
+      5 - Modelo de produção
 ## Pré-requisitos
    - Quais são as dependências do projeto?   
+      pandas
+      searborn
+      scikit-learn
+      matplotlib
+      numpy
 
 ## Video Explicativo
-   - Coloque aqui o link para o seu video explicando como o projeto foi desenvolvido, quais as dificuldades encontradas e qual a solução adotada.
+    
+   
